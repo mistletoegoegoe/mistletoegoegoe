@@ -6,7 +6,12 @@ As a Data Science graduate with a Bachelor's in Logistics and Supply Chain Manag
 - Virtual internship in Technology at Bright Network UK
 - Certificates: Datacamp certificate for SQL, Power BI and Python course.
 ## Project for sharing
-https://github.com/pth11/SQL_Ecommerce_Exploring
+[1. SQL_Ecommerce_Exploring](https://www.google.com](https://github.com/mistletoegoegoe/SQL_Ecommerce_Exploring))
+
+[2. Power_BI_Superstore_Sales](https://www.google.com](https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales))
+
+[3. Python_KPMG_Customer_Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Customer_Engagement)
+
 ## Work Experience
 
 ## Education 

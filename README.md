@@ -13,8 +13,12 @@ As a Data Science graduate with a Bachelor's in Logistics and Supply Chain Manag
 [3. Python_KPMG_Customer_Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Customer_Engagement)
 
 ## Work Experience
+- Front of house staff, Bulgogi Grill Restaurant (May 2023 – Present)
+- Ocean export Intern, Expeditors Limited Company, US (Vietnam Branch) (January 2022 – May 2022)
 
 ## Education 
+- Master of Science in Data Science, Leeds Beckett University, UK (January 2023 – June 2024)
+- Bachelor of Logistics & Supply chain management, National Economics University, Vietnam (September 2018 – July 2022)
 
 <!--
 **mistletoegoegoe/mistletoegoegoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,8 @@ As a Data Science graduate with a Bachelor's in Logistics and Supply Chain Manag
 - Soft skills: Communication, Presentation, Teamwork, Problem solving
 - Virtual internship in Technology at Bright Network UK
 - Certificates: Datacamp certificate for SQL, Power BI and Python course.
-## Project
+## Project for sharing
+https://github.com/pth11/SQL_Ecommerce_Exploring
 ## Work Experience
 
 ## Education 

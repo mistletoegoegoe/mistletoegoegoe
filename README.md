@@ -8,9 +8,9 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 ## Project for sharing
 [1. SQL_Ecommerce_Exploring](https://github.com/mistletoegoegoe/SQL_Ecommerce_Exploring)
 
-[2. Power_BI_Superstore_Sales](https://www.google.com](https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales))
+[2. Power_BI_Superstore_Sales](https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales)
 
-[3. Python_KPMG_Customer_Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Customer_Engagement)
+[3. Python_KPMG_Customer_Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis)
 
 ## Work Experience
 - Front of house staff, Bulgogi Grill Restaurant (May 2023 – Present)

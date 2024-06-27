@@ -3,8 +3,8 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 ## Skills 
 - Professional skills: SQL, Power BI, Python, Machine Learning, Data warehousing
 - Soft skills: Communication, Presentation, Teamwork, Problem solving
-- Virtual internship in Technology at Bright Network UK
-- Certificates: Datacamp certificate for SQL, Power BI and Python course.
+- Virtual internship in Technology at Bright Network UK ([Link](https://drive.google.com/file/d/1_G6XG_YtCex3magPjCWPD-fQ_jdos_Tb/view?usp=sharing))
+- Certificates: Datacamp certificate for SQL, Power BI and Python course ([Link](https://drive.google.com/drive/folders/1KTBXHnt9itCCcPOzNe4TRG_nbKuTsCWP))
 ## Project for sharing
 [1. SQL Ecommerce Exploring](https://github.com/mistletoegoegoe/SQL_Ecommerce_Exploring)
 

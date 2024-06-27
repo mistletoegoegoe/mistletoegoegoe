@@ -6,13 +6,13 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 - Virtual internship in Technology at Bright Network UK
 - Certificates: Datacamp certificate for SQL, Power BI and Python course.
 ## Project for sharing
-[1. SQL_Ecommerce_Exploring](https://github.com/mistletoegoegoe/SQL_Ecommerce_Exploring)
+[1. SQL Ecommerce Exploring](https://github.com/mistletoegoegoe/SQL_Ecommerce_Exploring)
 
-[2. Power_BI_Superstore_Sales](https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales)
+[2. Power BI Superstore Sales](https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales)
 
-[3. Python_KPMG_Customer_Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis)
+[3. Python KPMG Customer Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis)
 
-[4. Uber price forecast by Machine Learning](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML)
+[4. Machine Learning Uber price forecast](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML)
 
 
 ## Work Experience

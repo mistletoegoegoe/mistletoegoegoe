@@ -12,7 +12,7 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 
 [3. Python_KPMG_Customer_Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis)
 
-[4. Uber price forecast by ML](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML/edit/main/README.md)
+[4. Uber price forecast by ML](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML)
 
 
 ## Work Experience

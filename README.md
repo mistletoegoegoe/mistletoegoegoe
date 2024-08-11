@@ -17,7 +17,7 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 
 ## Work Experience
 - Front of house staff, Bulgogi Grill Restaurant (May 2023 – Present)
-- Ocean export Intern, Expeditors Limited Company, US (Vietnam Branch) (January 2022 – May 2022)
+- Ocean export Intern, Expeditors Limited Company, US (Vietnam Branch) (January 2022 – Dec 2022)
 
 ## Education 
 - Master of Science in Data Science, Leeds Beckett University, UK (January 2023 – June 2024)

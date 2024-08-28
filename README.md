@@ -17,10 +17,6 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 [5. Machine Learning Uber price forecast](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML)
 
 
-## Work Experience
-- Front of house staff, Bulgogi Grill Restaurant (May 2023 – Present)
-- Ocean export Intern, Expeditors Limited Company, US (Vietnam Branch) (January 2022 – Dec 2022)
-
 ## Education 
 - Master of Science in Data Science, Leeds Beckett University, UK (January 2023 – June 2024)
 - Bachelor of Logistics & Supply chain management, National Economics University, Vietnam (September 2018 – July 2022)

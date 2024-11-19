@@ -14,8 +14,14 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 [6. Machine Learning Uber price forecast](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML)
 
 ## Skills 
-- Professional skills: SQL, Power BI, Python, Machine Learning, Data warehousing
-- Soft skills: Communication, Presentation, Teamwork, Problem solving
+-Technical Tools: Power BI (DAX, dashboards), Excel (Pivot Tables, VLOOKUP, IF), SQL (CTEs, Window Functions, Joins), Python (EDA, heatmaps).
+- Data Analysis: Preprocessing, cleaning, modelling, and visualising large datasets; developing KPIs; exploratory data analysis.
+- Reporting & Communication: Building intuitive dashboards, presenting insights, and writing concise, actionable reports.
+- Soft Skills: Problem-solving, time management, adaptability, and proactive learning.
+
+## Certificates 
+- PwC Switzerland Power BI Job Simulation ([Link](https://drive.google.com/file/d/16ta6FdKaqJX-8aszhS22Es4eS77nVjXO/view?usp=sharing)
+- Accenture North America Data Analytics & Visualization Job Simulation ([Link](https://drive.google.com/file/d/13Uz6bh5DimzNnm4hTi4sHkD3eP5YELUh/view?usp=sharing)
 - Virtual internship in Technology at Bright Network UK ([Link](https://drive.google.com/file/d/1_G6XG_YtCex3magPjCWPD-fQ_jdos_Tb/view?usp=sharing))
 - Certificates: Datacamp certificate for SQL, Power BI and Python course ([Link](https://drive.google.com/drive/folders/1KTBXHnt9itCCcPOzNe4TRG_nbKuTsCWP))
 

@@ -6,15 +6,17 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 - Virtual internship in Technology at Bright Network UK ([Link](https://drive.google.com/file/d/1_G6XG_YtCex3magPjCWPD-fQ_jdos_Tb/view?usp=sharing))
 - Certificates: Datacamp certificate for SQL, Power BI and Python course ([Link](https://drive.google.com/drive/folders/1KTBXHnt9itCCcPOzNe4TRG_nbKuTsCWP))
 ## Project for sharing
-[1. SQL Ecommerce Exploring](https://github.com/mistletoegoegoe/SQL_Ecommerce_Exploring)
+[1. PwC Switzerland Power BI Job Simulation](https://github.com/mistletoegoegoe/PwC-Switzerland-Power-BI-Job-Simulation/blob/main/README.md)
 
-[2. Power BI Superstore Sales](https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales)
+[2. SQL Ecommerce Exploring](https://github.com/mistletoegoegoe/SQL_Ecommerce_Exploring)
 
-[3. Python KPMG Customer Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis)
+[3. Power BI Superstore Sales](https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales)
 
-[4. Data warehouse creation for healthcare organisations](https://github.com/mistletoegoegoe/Data_warehouse_creation_for_healthcare_organisations/blob/main/README.md#2-staging-area-and-data-warehouse-population)
+[4. Python KPMG Customer Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis)
 
-[5. Machine Learning Uber price forecast](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML)
+[5. Data warehouse creation for healthcare organisations](https://github.com/mistletoegoegoe/Data_warehouse_creation_for_healthcare_organisations/blob/main/README.md#2-staging-area-and-data-warehouse-population)
+
+[6. Machine Learning Uber price forecast](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML)
 
 
 ## Education 

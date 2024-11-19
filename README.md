@@ -1,10 +1,5 @@
 ## About me 
 As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chain Management, I have a strong foundation in data analytics, machine learning, and economics. I am passionate about transforming raw data into actionable insights and am eager to pursue a career in Data Analytics to drive impactful decision-making. 
-## Skills 
-- Professional skills: SQL, Power BI, Python, Machine Learning, Data warehousing
-- Soft skills: Communication, Presentation, Teamwork, Problem solving
-- Virtual internship in Technology at Bright Network UK ([Link](https://drive.google.com/file/d/1_G6XG_YtCex3magPjCWPD-fQ_jdos_Tb/view?usp=sharing))
-- Certificates: Datacamp certificate for SQL, Power BI and Python course ([Link](https://drive.google.com/drive/folders/1KTBXHnt9itCCcPOzNe4TRG_nbKuTsCWP))
 ## Project for sharing
 [1. PwC Switzerland Power BI Job Simulation](https://github.com/mistletoegoegoe/PwC-Switzerland-Power-BI-Job-Simulation/blob/main/README.md)
 
@@ -18,6 +13,11 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 
 [6. Machine Learning Uber price forecast](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML)
 
+## Skills 
+- Professional skills: SQL, Power BI, Python, Machine Learning, Data warehousing
+- Soft skills: Communication, Presentation, Teamwork, Problem solving
+- Virtual internship in Technology at Bright Network UK ([Link](https://drive.google.com/file/d/1_G6XG_YtCex3magPjCWPD-fQ_jdos_Tb/view?usp=sharing))
+- Certificates: Datacamp certificate for SQL, Power BI and Python course ([Link](https://drive.google.com/drive/folders/1KTBXHnt9itCCcPOzNe4TRG_nbKuTsCWP))
 
 ## Education 
 - Master of Science in Data Science, Leeds Beckett University, UK (January 2023 – June 2024)

@@ -14,7 +14,7 @@ As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chai
 [6. Machine Learning Uber price forecast](https://github.com/mistletoegoegoe/Uber-price-forecasting-by-ML)
 
 ## Skills 
--Technical Tools: Power BI (DAX, dashboards), Excel (Pivot Tables, VLOOKUP, IF), SQL (CTEs, Window Functions, Joins), Python (EDA, heatmaps).
+- Technical Tools: Power BI (DAX, dashboards), Excel (Pivot Tables, VLOOKUP, IF), SQL (CTEs, Window Functions, Joins), Python (EDA, heatmaps).
 - Data Analysis: Preprocessing, cleaning, modelling, and visualising large datasets; developing KPIs; exploratory data analysis.
 - Reporting & Communication: Building intuitive dashboards, presenting insights, and writing concise, actionable reports.
 - Soft Skills: Problem-solving, time management, adaptability, and proactive learning.

@@ -1,5 +1,5 @@
 ## About me 
-As a Data Science graduate with a Bachelor's Degree in Logistics and Supply Chain Management, I have a strong foundation in data analytics, machine learning, and economics. I am passionate about transforming raw data into actionable insights and am eager to pursue a career in Data Analytics to drive impactful decision-making. 
+As a **Data Science** graduate with a Bachelor's Degree in **Logistics and Supply Chain Management**, I have a strong foundation in data analytics, machine learning, and economics. I am passionate about transforming raw data into actionable insights and am eager to pursue a career in Data Analytics to drive impactful decision-making. 
 ## Project for sharing
 [1. PwC Switzerland Power BI Job Simulation](https://github.com/mistletoegoegoe/PwC-Switzerland-Power-BI-Job-Simulation/blob/main/README.md)
 

@@ -5,7 +5,7 @@ As a **Data Science** graduate with a Bachelor's Degree in **Logistics and Suppl
 
 [2. SQL Ecommerce Exploring](https://github.com/mistletoegoegoe/SQL_Ecommerce_Exploring)
 
-[3. Power BI Superstore Sales](https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales)
+[3. Power BI Business Performance & Market Expansion Analysis](https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales)
 
 [4. Python KPMG Customer Engagement](https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis)
 
